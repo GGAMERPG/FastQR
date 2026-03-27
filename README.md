@@ -33,6 +33,3 @@ FastQR — это простая программа для Windows, котора
 
 1. Установи **Python 3.10** или новее.
 2. Склонируй репозиторий:
-   ```bash
-   git clone https://github.com/ТВОЙ_НИК/FastQR.git
-   cd FastQR
